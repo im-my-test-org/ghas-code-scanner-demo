@@ -1,0 +1,24 @@
+name: Upload SARIF to GHAS
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:   # lets you run manually
+
+permissions:
+  security-events: write   # REQUIRED
+  contents: read
+
+jobs:
+  upload-sarif:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Upload SARIF file
+        uses: github/codeql-action/upload-sarif@v3
+        with:
+          sarif_file: demo-results.sarif
+          category: demo-scan   # optional but useful
