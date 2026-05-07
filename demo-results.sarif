@@ -8,7 +8,7 @@
           "name": "Demo Scanner",
           "rules": [
             {
-              "id": "DEMO001",
+              "id": "DEM001",
               "name": "Demo Rule 1",
               "shortDescription": {
                 "text": "Issue 1 detected"
@@ -24,7 +24,7 @@
               }
             },
             {
-              "id": "DEMO002",
+              "id": "DEM002",
               "name": "Demo Rule 2",
               "shortDescription": {
                 "text": "Issue 2 detected"
@@ -40,7 +40,7 @@
               }
             },
             {
-              "id": "DEMO003",
+              "id": "DEM003",
               "name": "Demo Rule 3",
               "shortDescription": {
                 "text": "Issue 3 detected"
@@ -56,7 +56,7 @@
               }
             },
             {
-              "id": "DEMO004",
+              "id": "DEM004",
               "name": "Demo Rule 4",
               "shortDescription": {
                 "text": "Issue 4 detected"
@@ -72,7 +72,7 @@
               }
             },
             {
-              "id": "DEMO005",
+              "id": "DEM005",
               "name": "Demo Rule 5",
               "shortDescription": {
                 "text": "Issue 5 detected"
@@ -88,7 +88,7 @@
               }
             },
             {
-              "id": "DEMO006",
+              "id": "DEM006",
               "name": "Demo Rule 6",
               "shortDescription": {
                 "text": "Issue 6 detected"
@@ -104,7 +104,7 @@
               }
             },
             {
-              "id": "DEMO007",
+              "id": "DEM007",
               "name": "Demo Rule 7",
               "shortDescription": {
                 "text": "Issue 7 detected"
@@ -120,7 +120,7 @@
               }
             },
             {
-              "id": "DEMO008",
+              "id": "DEM008",
               "name": "Demo Rule 8",
               "shortDescription": {
                 "text": "Issue 8 detected"
@@ -136,7 +136,7 @@
               }
             },
             {
-              "id": "DEMO009",
+              "id": "DEM009",
               "name": "Demo Rule 9",
               "shortDescription": {
                 "text": "Issue 9 detected"
@@ -152,7 +152,7 @@
               }
             },
             {
-              "id": "DEMO010",
+              "id": "DEM010",
               "name": "Demo Rule 10",
               "shortDescription": {
                 "text": "Issue 10 detected"
@@ -168,7 +168,7 @@
               }
             },
             {
-              "id": "DEMO011",
+              "id": "DEM011",
               "name": "Demo Rule 11",
               "shortDescription": {
                 "text": "Issue 11 detected"
@@ -184,7 +184,7 @@
               }
             },
             {
-              "id": "DEMO012",
+              "id": "DEM012",
               "name": "Demo Rule 12",
               "shortDescription": {
                 "text": "Issue 12 detected"
@@ -200,7 +200,7 @@
               }
             },
             {
-              "id": "DEMO013",
+              "id": "DEM013",
               "name": "Demo Rule 13",
               "shortDescription": {
                 "text": "Issue 13 detected"
@@ -216,7 +216,7 @@
               }
             },
             {
-              "id": "DEMO014",
+              "id": "DEM014",
               "name": "Demo Rule 14",
               "shortDescription": {
                 "text": "Issue 14 detected"
@@ -232,7 +232,7 @@
               }
             },
             {
-              "id": "DEMO015",
+              "id": "DEM015",
               "name": "Demo Rule 15",
               "shortDescription": {
                 "text": "Issue 15 detected"
@@ -248,7 +248,7 @@
               }
             },
             {
-              "id": "DEMO016",
+              "id": "DEM016",
               "name": "Demo Rule 16",
               "shortDescription": {
                 "text": "Issue 16 detected"
@@ -264,7 +264,7 @@
               }
             },
             {
-              "id": "DEMO017",
+              "id": "DEM017",
               "name": "Demo Rule 17",
               "shortDescription": {
                 "text": "Issue 17 detected"
@@ -280,7 +280,7 @@
               }
             },
             {
-              "id": "DEMO018",
+              "id": "DEM018",
               "name": "Demo Rule 18",
               "shortDescription": {
                 "text": "Issue 18 detected"
@@ -296,7 +296,7 @@
               }
             },
             {
-              "id": "DEMO019",
+              "id": "DEM019",
               "name": "Demo Rule 19",
               "shortDescription": {
                 "text": "Issue 19 detected"
@@ -312,7 +312,7 @@
               }
             },
             {
-              "id": "DEMO020",
+              "id": "DEM020",
               "name": "Demo Rule 20",
               "shortDescription": {
                 "text": "Issue 20 detected"
@@ -328,7 +328,7 @@
               }
             },
             {
-              "id": "DEMO021",
+              "id": "DEM021",
               "name": "Demo Rule 21",
               "shortDescription": {
                 "text": "Issue 21 detected"
@@ -344,7 +344,7 @@
               }
             },
             {
-              "id": "DEMO022",
+              "id": "DEM022",
               "name": "Demo Rule 22",
               "shortDescription": {
                 "text": "Issue 22 detected"
@@ -360,7 +360,7 @@
               }
             },
             {
-              "id": "DEMO023",
+              "id": "DEM023",
               "name": "Demo Rule 23",
               "shortDescription": {
                 "text": "Issue 23 detected"
@@ -376,7 +376,7 @@
               }
             },
             {
-              "id": "DEMO024",
+              "id": "DEM024",
               "name": "Demo Rule 24",
               "shortDescription": {
                 "text": "Issue 24 detected"
@@ -392,7 +392,7 @@
               }
             },
             {
-              "id": "DEMO025",
+              "id": "DEM025",
               "name": "Demo Rule 25",
               "shortDescription": {
                 "text": "Issue 25 detected"
@@ -408,7 +408,7 @@
               }
             },
             {
-              "id": "DEMO026",
+              "id": "DEM026",
               "name": "Demo Rule 26",
               "shortDescription": {
                 "text": "Issue 26 detected"
@@ -424,7 +424,7 @@
               }
             },
             {
-              "id": "DEMO027",
+              "id": "DEM027",
               "name": "Demo Rule 27",
               "shortDescription": {
                 "text": "Issue 27 detected"
@@ -440,7 +440,7 @@
               }
             },
             {
-              "id": "DEMO028",
+              "id": "DEM028",
               "name": "Demo Rule 28",
               "shortDescription": {
                 "text": "Issue 28 detected"
@@ -456,7 +456,7 @@
               }
             },
             {
-              "id": "DEMO029",
+              "id": "DEM029",
               "name": "Demo Rule 29",
               "shortDescription": {
                 "text": "Issue 29 detected"
@@ -472,7 +472,7 @@
               }
             },
             {
-              "id": "DEMO030",
+              "id": "DEM030",
               "name": "Demo Rule 30",
               "shortDescription": {
                 "text": "Issue 30 detected"
@@ -488,7 +488,7 @@
               }
             },
             {
-              "id": "DEMO031",
+              "id": "DEM031",
               "name": "Demo Rule 31",
               "shortDescription": {
                 "text": "Issue 31 detected"
@@ -504,7 +504,7 @@
               }
             },
             {
-              "id": "DEMO032",
+              "id": "DEM032",
               "name": "Demo Rule 32",
               "shortDescription": {
                 "text": "Issue 32 detected"
@@ -520,7 +520,7 @@
               }
             },
             {
-              "id": "DEMO033",
+              "id": "DEM033",
               "name": "Demo Rule 33",
               "shortDescription": {
                 "text": "Issue 33 detected"
@@ -536,7 +536,7 @@
               }
             },
             {
-              "id": "DEMO034",
+              "id": "DEM034",
               "name": "Demo Rule 34",
               "shortDescription": {
                 "text": "Issue 34 detected"
@@ -552,7 +552,7 @@
               }
             },
             {
-              "id": "DEMO035",
+              "id": "DEM035",
               "name": "Demo Rule 35",
               "shortDescription": {
                 "text": "Issue 35 detected"
@@ -568,7 +568,7 @@
               }
             },
             {
-              "id": "DEMO036",
+              "id": "DEM036",
               "name": "Demo Rule 36",
               "shortDescription": {
                 "text": "Issue 36 detected"
@@ -584,7 +584,7 @@
               }
             },
             {
-              "id": "DEMO037",
+              "id": "DEM037",
               "name": "Demo Rule 37",
               "shortDescription": {
                 "text": "Issue 37 detected"
@@ -600,7 +600,7 @@
               }
             },
             {
-              "id": "DEMO038",
+              "id": "DEM038",
               "name": "Demo Rule 38",
               "shortDescription": {
                 "text": "Issue 38 detected"
@@ -616,7 +616,7 @@
               }
             },
             {
-              "id": "DEMO039",
+              "id": "DEM039",
               "name": "Demo Rule 39",
               "shortDescription": {
                 "text": "Issue 39 detected"
@@ -632,7 +632,7 @@
               }
             },
             {
-              "id": "DEMO040",
+              "id": "DEM040",
               "name": "Demo Rule 40",
               "shortDescription": {
                 "text": "Issue 40 detected"
@@ -648,7 +648,7 @@
               }
             },
             {
-              "id": "DEMO041",
+              "id": "DEM041",
               "name": "Demo Rule 41",
               "shortDescription": {
                 "text": "Issue 41 detected"
@@ -664,7 +664,7 @@
               }
             },
             {
-              "id": "DEMO042",
+              "id": "DEM042",
               "name": "Demo Rule 42",
               "shortDescription": {
                 "text": "Issue 42 detected"
@@ -680,7 +680,7 @@
               }
             },
             {
-              "id": "DEMO043",
+              "id": "DEM043",
               "name": "Demo Rule 43",
               "shortDescription": {
                 "text": "Issue 43 detected"
@@ -696,7 +696,7 @@
               }
             },
             {
-              "id": "DEMO044",
+              "id": "DEM044",
               "name": "Demo Rule 44",
               "shortDescription": {
                 "text": "Issue 44 detected"
@@ -712,7 +712,7 @@
               }
             },
             {
-              "id": "DEMO045",
+              "id": "DEM045",
               "name": "Demo Rule 45",
               "shortDescription": {
                 "text": "Issue 45 detected"
@@ -728,7 +728,7 @@
               }
             },
             {
-              "id": "DEMO046",
+              "id": "DEM046",
               "name": "Demo Rule 46",
               "shortDescription": {
                 "text": "Issue 46 detected"
@@ -744,7 +744,7 @@
               }
             },
             {
-              "id": "DEMO047",
+              "id": "DEM047",
               "name": "Demo Rule 47",
               "shortDescription": {
                 "text": "Issue 47 detected"
@@ -760,7 +760,7 @@
               }
             },
             {
-              "id": "DEMO048",
+              "id": "DEM048",
               "name": "Demo Rule 48",
               "shortDescription": {
                 "text": "Issue 48 detected"
@@ -776,7 +776,7 @@
               }
             },
             {
-              "id": "DEMO049",
+              "id": "DEM049",
               "name": "Demo Rule 49",
               "shortDescription": {
                 "text": "Issue 49 detected"
@@ -792,7 +792,7 @@
               }
             },
             {
-              "id": "DEMO050",
+              "id": "DEM050",
               "name": "Demo Rule 50",
               "shortDescription": {
                 "text": "Issue 50 detected"
@@ -808,7 +808,7 @@
               }
             },
             {
-              "id": "DEMO051",
+              "id": "DEM051",
               "name": "Demo Rule 51",
               "shortDescription": {
                 "text": "Issue 51 detected"
@@ -824,7 +824,7 @@
               }
             },
             {
-              "id": "DEMO052",
+              "id": "DEM052",
               "name": "Demo Rule 52",
               "shortDescription": {
                 "text": "Issue 52 detected"
@@ -840,7 +840,7 @@
               }
             },
             {
-              "id": "DEMO053",
+              "id": "DEM053",
               "name": "Demo Rule 53",
               "shortDescription": {
                 "text": "Issue 53 detected"
@@ -856,7 +856,7 @@
               }
             },
             {
-              "id": "DEMO054",
+              "id": "DEM054",
               "name": "Demo Rule 54",
               "shortDescription": {
                 "text": "Issue 54 detected"
@@ -872,7 +872,7 @@
               }
             },
             {
-              "id": "DEMO055",
+              "id": "DEM055",
               "name": "Demo Rule 55",
               "shortDescription": {
                 "text": "Issue 55 detected"
@@ -888,7 +888,7 @@
               }
             },
             {
-              "id": "DEMO056",
+              "id": "DEM056",
               "name": "Demo Rule 56",
               "shortDescription": {
                 "text": "Issue 56 detected"
@@ -904,7 +904,7 @@
               }
             },
             {
-              "id": "DEMO057",
+              "id": "DEM057",
               "name": "Demo Rule 57",
               "shortDescription": {
                 "text": "Issue 57 detected"
@@ -920,7 +920,7 @@
               }
             },
             {
-              "id": "DEMO058",
+              "id": "DEM058",
               "name": "Demo Rule 58",
               "shortDescription": {
                 "text": "Issue 58 detected"
@@ -936,7 +936,7 @@
               }
             },
             {
-              "id": "DEMO059",
+              "id": "DEM059",
               "name": "Demo Rule 59",
               "shortDescription": {
                 "text": "Issue 59 detected"
@@ -952,7 +952,7 @@
               }
             },
             {
-              "id": "DEMO060",
+              "id": "DEM060",
               "name": "Demo Rule 60",
               "shortDescription": {
                 "text": "Issue 60 detected"
@@ -972,7 +972,7 @@
       },
       "results": [
         {
-          "ruleId": "DEMO001",
+          "ruleId": "DEM001",
           "level": "error",
           "message": {
             "text": "Sample issue 1"
@@ -992,7 +992,7 @@
           ]
         },
         {
-          "ruleId": "DEMO002",
+          "ruleId": "DEM002",
           "level": "note",
           "message": {
             "text": "Sample issue 2"
@@ -1012,7 +1012,7 @@
           ]
         },
         {
-          "ruleId": "DEMO003",
+          "ruleId": "DEM003",
           "level": "error",
           "message": {
             "text": "Sample issue 3"
@@ -1032,7 +1032,7 @@
           ]
         },
         {
-          "ruleId": "DEMO004",
+          "ruleId": "DEM004",
           "level": "warning",
           "message": {
             "text": "Sample issue 4"
@@ -1052,7 +1052,7 @@
           ]
         },
         {
-          "ruleId": "DEMO005",
+          "ruleId": "DEM005",
           "level": "error",
           "message": {
             "text": "Sample issue 5"
@@ -1072,7 +1072,7 @@
           ]
         },
         {
-          "ruleId": "DEMO006",
+          "ruleId": "DEM006",
           "level": "warning",
           "message": {
             "text": "Sample issue 6"
@@ -1092,7 +1092,7 @@
           ]
         },
         {
-          "ruleId": "DEMO007",
+          "ruleId": "DEM007",
           "level": "warning",
           "message": {
             "text": "Sample issue 7"
@@ -1112,7 +1112,7 @@
           ]
         },
         {
-          "ruleId": "DEMO008",
+          "ruleId": "DEM008",
           "level": "error",
           "message": {
             "text": "Sample issue 8"
@@ -1132,7 +1132,7 @@
           ]
         },
         {
-          "ruleId": "DEMO009",
+          "ruleId": "DEM009",
           "level": "warning",
           "message": {
             "text": "Sample issue 9"
@@ -1152,7 +1152,7 @@
           ]
         },
         {
-          "ruleId": "DEMO010",
+          "ruleId": "DEM010",
           "level": "note",
           "message": {
             "text": "Sample issue 10"
@@ -1172,7 +1172,7 @@
           ]
         },
         {
-          "ruleId": "DEMO011",
+          "ruleId": "DEM011",
           "level": "error",
           "message": {
             "text": "Sample issue 11"
@@ -1192,7 +1192,7 @@
           ]
         },
         {
-          "ruleId": "DEMO012",
+          "ruleId": "DEM012",
           "level": "error",
           "message": {
             "text": "Sample issue 12"
@@ -1212,7 +1212,7 @@
           ]
         },
         {
-          "ruleId": "DEMO013",
+          "ruleId": "DEM013",
           "level": "error",
           "message": {
             "text": "Sample issue 13"
@@ -1232,7 +1232,7 @@
           ]
         },
         {
-          "ruleId": "DEMO014",
+          "ruleId": "DEM014",
           "level": "note",
           "message": {
             "text": "Sample issue 14"
@@ -1252,7 +1252,7 @@
           ]
         },
         {
-          "ruleId": "DEMO015",
+          "ruleId": "DEM015",
           "level": "note",
           "message": {
             "text": "Sample issue 15"
@@ -1272,7 +1272,7 @@
           ]
         },
         {
-          "ruleId": "DEMO016",
+          "ruleId": "DEM016",
           "level": "error",
           "message": {
             "text": "Sample issue 16"
@@ -1292,7 +1292,7 @@
           ]
         },
         {
-          "ruleId": "DEMO017",
+          "ruleId": "DEM017",
           "level": "warning",
           "message": {
             "text": "Sample issue 17"
@@ -1312,7 +1312,7 @@
           ]
         },
         {
-          "ruleId": "DEMO018",
+          "ruleId": "DEM018",
           "level": "note",
           "message": {
             "text": "Sample issue 18"
@@ -1332,7 +1332,7 @@
           ]
         },
         {
-          "ruleId": "DEMO019",
+          "ruleId": "DEM019",
           "level": "warning",
           "message": {
             "text": "Sample issue 19"
@@ -1352,7 +1352,7 @@
           ]
         },
         {
-          "ruleId": "DEMO020",
+          "ruleId": "DEM020",
           "level": "error",
           "message": {
             "text": "Sample issue 20"
@@ -1372,7 +1372,7 @@
           ]
         },
         {
-          "ruleId": "DEMO021",
+          "ruleId": "DEM021",
           "level": "warning",
           "message": {
             "text": "Sample issue 21"
@@ -1392,7 +1392,7 @@
           ]
         },
         {
-          "ruleId": "DEMO022",
+          "ruleId": "DEM022",
           "level": "warning",
           "message": {
             "text": "Sample issue 22"
@@ -1412,7 +1412,7 @@
           ]
         },
         {
-          "ruleId": "DEMO023",
+          "ruleId": "DEM023",
           "level": "error",
           "message": {
             "text": "Sample issue 23"
@@ -1432,7 +1432,7 @@
           ]
         },
         {
-          "ruleId": "DEMO024",
+          "ruleId": "DEM024",
           "level": "warning",
           "message": {
             "text": "Sample issue 24"
@@ -1452,7 +1452,7 @@
           ]
         },
         {
-          "ruleId": "DEMO025",
+          "ruleId": "DEM025",
           "level": "error",
           "message": {
             "text": "Sample issue 25"
@@ -1472,7 +1472,7 @@
           ]
         },
         {
-          "ruleId": "DEMO026",
+          "ruleId": "DEM026",
           "level": "warning",
           "message": {
             "text": "Sample issue 26"
@@ -1492,7 +1492,7 @@
           ]
         },
         {
-          "ruleId": "DEMO027",
+          "ruleId": "DEM027",
           "level": "warning",
           "message": {
             "text": "Sample issue 27"
@@ -1512,7 +1512,7 @@
           ]
         },
         {
-          "ruleId": "DEMO028",
+          "ruleId": "DEM028",
           "level": "error",
           "message": {
             "text": "Sample issue 28"
@@ -1532,7 +1532,7 @@
           ]
         },
         {
-          "ruleId": "DEMO029",
+          "ruleId": "DEM029",
           "level": "note",
           "message": {
             "text": "Sample issue 29"
@@ -1552,7 +1552,7 @@
           ]
         },
         {
-          "ruleId": "DEMO030",
+          "ruleId": "DEM030",
           "level": "warning",
           "message": {
             "text": "Sample issue 30"
@@ -1572,7 +1572,7 @@
           ]
         },
         {
-          "ruleId": "DEMO031",
+          "ruleId": "DEM031",
           "level": "warning",
           "message": {
             "text": "Sample issue 31"
@@ -1592,7 +1592,7 @@
           ]
         },
         {
-          "ruleId": "DEMO032",
+          "ruleId": "DEM032",
           "level": "warning",
           "message": {
             "text": "Sample issue 32"
@@ -1612,7 +1612,7 @@
           ]
         },
         {
-          "ruleId": "DEMO033",
+          "ruleId": "DEM033",
           "level": "error",
           "message": {
             "text": "Sample issue 33"
@@ -1632,7 +1632,7 @@
           ]
         },
         {
-          "ruleId": "DEMO034",
+          "ruleId": "DEM034",
           "level": "note",
           "message": {
             "text": "Sample issue 34"
@@ -1652,7 +1652,7 @@
           ]
         },
         {
-          "ruleId": "DEMO035",
+          "ruleId": "DEM035",
           "level": "note",
           "message": {
             "text": "Sample issue 35"
@@ -1672,7 +1672,7 @@
           ]
         },
         {
-          "ruleId": "DEMO036",
+          "ruleId": "DEM036",
           "level": "warning",
           "message": {
             "text": "Sample issue 36"
@@ -1692,7 +1692,7 @@
           ]
         },
         {
-          "ruleId": "DEMO037",
+          "ruleId": "DEM037",
           "level": "note",
           "message": {
             "text": "Sample issue 37"
@@ -1712,7 +1712,7 @@
           ]
         },
         {
-          "ruleId": "DEMO038",
+          "ruleId": "DEM038",
           "level": "note",
           "message": {
             "text": "Sample issue 38"
@@ -1732,7 +1732,7 @@
           ]
         },
         {
-          "ruleId": "DEMO039",
+          "ruleId": "DEM039",
           "level": "warning",
           "message": {
             "text": "Sample issue 39"
@@ -1752,7 +1752,7 @@
           ]
         },
         {
-          "ruleId": "DEMO040",
+          "ruleId": "DEM040",
           "level": "error",
           "message": {
             "text": "Sample issue 40"
@@ -1772,7 +1772,7 @@
           ]
         },
         {
-          "ruleId": "DEMO041",
+          "ruleId": "DEM041",
           "level": "error",
           "message": {
             "text": "Sample issue 41"
@@ -1792,7 +1792,7 @@
           ]
         },
         {
-          "ruleId": "DEMO042",
+          "ruleId": "DEM042",
           "level": "note",
           "message": {
             "text": "Sample issue 42"
@@ -1812,7 +1812,7 @@
           ]
         },
         {
-          "ruleId": "DEMO043",
+          "ruleId": "DEM043",
           "level": "warning",
           "message": {
             "text": "Sample issue 43"
@@ -1832,7 +1832,7 @@
           ]
         },
         {
-          "ruleId": "DEMO044",
+          "ruleId": "DEM044",
           "level": "error",
           "message": {
             "text": "Sample issue 44"
@@ -1852,7 +1852,7 @@
           ]
         },
         {
-          "ruleId": "DEMO045",
+          "ruleId": "DEM045",
           "level": "error",
           "message": {
             "text": "Sample issue 45"
@@ -1872,7 +1872,7 @@
           ]
         },
         {
-          "ruleId": "DEMO046",
+          "ruleId": "DEM046",
           "level": "note",
           "message": {
             "text": "Sample issue 46"
@@ -1892,7 +1892,7 @@
           ]
         },
         {
-          "ruleId": "DEMO047",
+          "ruleId": "DEM047",
           "level": "error",
           "message": {
             "text": "Sample issue 47"
@@ -1912,7 +1912,7 @@
           ]
         },
         {
-          "ruleId": "DEMO048",
+          "ruleId": "DEM048",
           "level": "note",
           "message": {
             "text": "Sample issue 48"
@@ -1932,7 +1932,7 @@
           ]
         },
         {
-          "ruleId": "DEMO049",
+          "ruleId": "DEM049",
           "level": "note",
           "message": {
             "text": "Sample issue 49"
@@ -1952,7 +1952,7 @@
           ]
         },
         {
-          "ruleId": "DEMO050",
+          "ruleId": "DEM050",
           "level": "warning",
           "message": {
             "text": "Sample issue 50"
@@ -1972,7 +1972,7 @@
           ]
         },
         {
-          "ruleId": "DEMO051",
+          "ruleId": "DEM051",
           "level": "warning",
           "message": {
             "text": "Sample issue 51"
@@ -1992,7 +1992,7 @@
           ]
         },
         {
-          "ruleId": "DEMO052",
+          "ruleId": "DEM052",
           "level": "error",
           "message": {
             "text": "Sample issue 52"
@@ -2012,7 +2012,7 @@
           ]
         },
         {
-          "ruleId": "DEMO053",
+          "ruleId": "DEM053",
           "level": "note",
           "message": {
             "text": "Sample issue 53"
@@ -2032,7 +2032,7 @@
           ]
         },
         {
-          "ruleId": "DEMO054",
+          "ruleId": "DEM054",
           "level": "note",
           "message": {
             "text": "Sample issue 54"
@@ -2052,7 +2052,7 @@
           ]
         },
         {
-          "ruleId": "DEMO055",
+          "ruleId": "DEM055",
           "level": "warning",
           "message": {
             "text": "Sample issue 55"
@@ -2072,7 +2072,7 @@
           ]
         },
         {
-          "ruleId": "DEMO056",
+          "ruleId": "DEM056",
           "level": "note",
           "message": {
             "text": "Sample issue 56"
@@ -2092,7 +2092,7 @@
           ]
         },
         {
-          "ruleId": "DEMO057",
+          "ruleId": "DEM057",
           "level": "error",
           "message": {
             "text": "Sample issue 57"
@@ -2112,7 +2112,7 @@
           ]
         },
         {
-          "ruleId": "DEMO058",
+          "ruleId": "DEM058",
           "level": "error",
           "message": {
             "text": "Sample issue 58"
@@ -2132,7 +2132,7 @@
           ]
         },
         {
-          "ruleId": "DEMO059",
+          "ruleId": "DEM059",
           "level": "note",
           "message": {
             "text": "Sample issue 59"
@@ -2152,7 +2152,7 @@
           ]
         },
         {
-          "ruleId": "DEMO060",
+          "ruleId": "DEM060",
           "level": "error",
           "message": {
             "text": "Sample issue 60"
