@@ -1,8 +1,8 @@
 name: Upload SARIF to GHAS
 
 on:
-  push:
-    branches: [ "main" ]
+  #push:
+    #branches: [ "main" ]
   workflow_dispatch:   # lets you run manually
 
 permissions:
